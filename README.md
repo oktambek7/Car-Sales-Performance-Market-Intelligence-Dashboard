@@ -28,6 +28,13 @@ business decisions.
 - Sales volume showed clear seasonal patterns with peaks during specific months
 - Certain sellers consistently outperformed others in revenue and pricing efficiency
 
+## Business Insights & Recommendations
+- Identified that SUVs and sedans contributed the majority of total revenue, suggesting inventory prioritization in these segments.
+- Found that approximately 20%+ of vehicles were priced above MMR, indicating potential overpricing risk and slower sales turnover.
+- Seasonal analysis showed higher sales volumes during mid-year and year-end periods, supporting targeted promotional strategies.
+- Certain sellers consistently outperformed others in both revenue and pricing efficiency, highlighting best-practice pricing models.
+- Price vs MMR analysis can be used to flag high-risk listings and support dynamic pricing decisions.
+
 ## Dashboard Overview
 The Power BI dashboard includes:
 
