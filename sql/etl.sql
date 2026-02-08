@@ -1,16 +1,6 @@
 /* =========================================================
    Car Sales ETL - Staging -> Clean -> Star Schema -> Views
-   Works with: SQL Server syntax (mostly). Adapt minor parts
-   for PostgreSQL/MySQL if needed.
    ========================================================= */
-
--- 0) RAW TABLE (assumed)
--- raw_car_sales columns commonly seen:
--- sale_id (optional), saledate, year, make, model, trim, body, transmission,
--- vin, state, condition, odometer, color, interior, seller,
--- sellingprice, mmr
--- If your raw table differs, update references below.
-
 ------------------------------------------------------------
 -- 1) STAGING: normalize types, trim text, safe casts
 ------------------------------------------------------------
