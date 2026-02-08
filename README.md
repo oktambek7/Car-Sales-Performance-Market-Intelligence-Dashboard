@@ -30,10 +30,18 @@ business decisions.
 
 ## Dashboard Overview
 The Power BI dashboard includes:
-- Executive Summary with KPIs
-- Brand and vehicle category analysis
-- Pricing intelligence (underpriced, fair, overpriced)
-- Time-based and geographic sales analysis
+
+### Executive Summary
+![Executive Summary](screenshots/executive_summary.png)
+
+### Brand & Category Analysis
+![Brand Analysis](screenshots/brand_analysis.png)
+
+### Pricing Intelligence
+![Pricing Intelligence](screenshots/pricing_intelligence.png)
+
+### Time-Based Sales Trends
+![Time Trends](screenshots/time_trends.png)
 
 ## Outcome & Business Value
 This analysis enables businesses to evaluate pricing strategies, identify high-performing sellers,
