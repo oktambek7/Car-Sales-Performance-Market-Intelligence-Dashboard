@@ -53,3 +53,9 @@ The Power BI dashboard includes:
 ## Outcome & Business Value
 This analysis enables businesses to evaluate pricing strategies, identify high-performing sellers,
 optimize inventory decisions, and improve revenue forecasting using historical sales trends.
+
+## How to Run
+1. Load raw data into SQL Server / Python
+2. Execute ETL scripts
+3. Import clean dataset or views into Power BI
+4. Explore dashboards and insight.
